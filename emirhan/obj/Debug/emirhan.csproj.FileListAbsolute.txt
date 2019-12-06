@@ -1,0 +1,18 @@
+c:\users\mrroot\documents\visual studio 2015\Projects\emirhan\emirhan\bin\Debug\emirhan.exe.config
+c:\users\mrroot\documents\visual studio 2015\Projects\emirhan\emirhan\obj\Debug\emirhan.csprojResolveAssemblyReference.cache
+c:\users\mrroot\documents\visual studio 2015\Projects\emirhan\emirhan\bin\Debug\emirhan.exe
+c:\users\mrroot\documents\visual studio 2015\Projects\emirhan\emirhan\bin\Debug\emirhan.pdb
+c:\users\mrroot\documents\visual studio 2015\Projects\emirhan\emirhan\obj\Debug\emirhan.exe
+c:\users\mrroot\documents\visual studio 2015\Projects\emirhan\emirhan\obj\Debug\emirhan.pdb
+C:\Users\emrhn\Desktop\emrhn2\emirhan\emirhan\bin\Debug\emirhan.exe.config
+C:\Users\emrhn\Desktop\emrhn2\emirhan\emirhan\obj\Debug\emirhan.exe
+C:\Users\emrhn\Desktop\emrhn2\emirhan\emirhan\obj\Debug\emirhan.pdb
+C:\Users\emrhn\Desktop\emrhn2\emirhan\emirhan\bin\Debug\emirhan.exe
+C:\Users\emrhn\Desktop\emrhn2\emirhan\emirhan\bin\Debug\emirhan.pdb
+C:\Users\emrhn\Desktop\emrhn2\emirhan\emirhan\obj\Debug\emirhan.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\projeler\g161210079\emirhan\emirhan\bin\Debug\emirhan.exe.config
+C:\Users\hp\Desktop\projeler\g161210079\emirhan\emirhan\bin\Debug\emirhan.exe
+C:\Users\hp\Desktop\projeler\g161210079\emirhan\emirhan\bin\Debug\emirhan.pdb
+C:\Users\hp\Desktop\projeler\g161210079\emirhan\emirhan\obj\Debug\emirhan.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\projeler\g161210079\emirhan\emirhan\obj\Debug\emirhan.exe
+C:\Users\hp\Desktop\projeler\g161210079\emirhan\emirhan\obj\Debug\emirhan.pdb
